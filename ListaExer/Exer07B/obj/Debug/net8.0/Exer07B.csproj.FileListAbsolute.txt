@@ -1,0 +1,14 @@
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\bin\Debug\net8.0\Exer07B.exe
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\bin\Debug\net8.0\Exer07B.deps.json
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\bin\Debug\net8.0\Exer07B.runtimeconfig.json
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\bin\Debug\net8.0\Exer07B.dll
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\bin\Debug\net8.0\Exer07B.pdb
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.AssemblyInfoInputs.cache
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.AssemblyInfo.cs
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.csproj.CoreCompileInputs.cache
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.dll
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\refint\Exer07B.dll
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.pdb
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\Exer07B.genruntimeconfig.cache
+C:\Users\CAUATOBIASDESOUZAPRO\Documents\ListaExer\Exer07B\obj\Debug\net8.0\ref\Exer07B.dll
